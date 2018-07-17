@@ -21,9 +21,10 @@ public class MyProject {
             case 'B' :
             case 'C' :
                 System.out.println("学习成绩：良好");
-            case 'D' :
                 break;
+            case 'D' :
                 System.out.println("学习成绩：及格");
+                break;
             case 'F' :
                 System.out.println("你需要再努力努力");
                 break;
@@ -32,6 +33,5 @@ public class MyProject {
         }
 
     }
-
     }
 }
